@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+  
+  #quote {
+    margin-top: 40px;
+    font-size: 24px;
+    color: #9b9898;
+  }
+  
+  #new-quote {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #new-quote:hover {
+    background-color: #555;
+  }
+  
